@@ -27,3 +27,5 @@ renamed as (
 )
 
 select * from renamed
+
+-- testing the pull request url template settings
