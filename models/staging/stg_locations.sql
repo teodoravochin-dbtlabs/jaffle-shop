@@ -27,3 +27,6 @@ renamed as (
 )
 
 select * from renamed
+
+-- I'm adding these lines to create 
+-- a merge conflict in the dbt Cloud IDE
